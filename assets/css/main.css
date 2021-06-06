@@ -8,6 +8,10 @@ body {
   border: 0;
 }
 
+body {
+  display: grid;
+}
+
 h2 {
   font-size: 35px;
   font-weight: 900;

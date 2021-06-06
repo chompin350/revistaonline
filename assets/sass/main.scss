@@ -18,12 +18,20 @@
 
   /* components */
   @import
-  'components/*';
+  'components/buttons',
+  'components/grid',
+  'components/inputs'
+  ;
 
 
   /* layout */
 @import
-  'layout/*';
+  'layout/footer',
+  'layout/header',
+  'layout/main',
+  'layout/navbar',
+  'layout/pagination',
+  'layout/newsletter';
    
   
 /* pages */
